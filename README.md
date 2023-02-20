@@ -60,8 +60,8 @@ git clone https://github.com/wogur0915/GreenWater
 
 ## 실행 화면
 
-![KakaoTalk_20221210_204433706](https://user-images.githubusercontent.com/34836246/206853405-a1ad426b-dde9-4ccc-b3f2-08b2641f284e.jpg)
-![KakaoTalk_20221210_203025133_06](https://user-images.githubusercontent.com/34836246/206853426-7a7c473e-31ea-4d54-acea-ce94d2a9de21.jpg)
+![OneClick_실행사진](https://user-images.githubusercontent.com/34836246/220022971-9df591f3-2064-4231-a6eb-4e7669ff5dd2.png)
+
 
 -----
 
